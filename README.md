@@ -114,11 +114,17 @@ Once you have the source code:
   * Batch processing.
   * Direct ShotGrid API integration.
 
-## 9\. License
+## 9\. Relevant MovieLabs Resources
+
+  * **MovieLabs Main Website:** [https://movielabs.com/](https://movielabs.com/)
+  * **Ontology for Media Creation (OMC):** [https://movielabs.com/ontology-for-media-creation-omc/](https://movielabs.com/ontology-for-media-creation-omc/)
+  * **OMC Validator API Documentation:** [https://omc-validator.mc.movielabs.com/api/docs](https://omc-validator.mc.movielabs.com/api/docs)
+
+## 10\. License
 
 **MIT License**
 
-Copyright (c) 2025 [Your Name or Organization Name - e.g., ME-DMZ or Your Full Name]
+Copyright (c) 2025 ME-DMZ *(\<-- Or your preferred name/organization)*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
